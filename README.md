@@ -5,6 +5,8 @@
 
 Udemy Course Certification : [DL based Self Driving .pdf](https://github.com/user-attachments/files/16344291/default.pdf)
 
+[![자율주행 시뮬레이션](https://img.youtube.com/vi/9FYJ_e-ylto/0.jpg)](https://www.youtube.com/watch?v=9FYJ_e-ylto)
+
 
 #### Table of Contents
 * [1. 🛣 Lane Detection](#1-lane-detection)
@@ -13,7 +15,6 @@ Udemy Course Certification : [DL based Self Driving .pdf](https://github.com/use
 * [2. 🚗 Behavioral Cloning](#2-behavioral-cloning)
     * [2.1 Collecting Data](#21-collecting-data)
     * [2.2 Balancing Data](#21-balancing-data)
-* [3. 📸 Autonomous Simulation](#3-autonomous-simulation)
 
 ## 1. 🛣Lane Detection
 **차선 감지**는 자율 주행 시스템에서 매우 중요한 구성 요소로, 차량이 차선 경계를 유지하며 도로를 안전하게 주행할 수 있도록 돕습니다.
@@ -127,4 +128,3 @@ OpenCV를 사용하여 실시간으로 차선을 감지하는 방법과 기술�
 
 ### 2.5 Applying a trained deep learning model to a Flask application
 
-## 3. 📸 Autonomous Simulation
