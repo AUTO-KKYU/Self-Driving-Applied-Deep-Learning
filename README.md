@@ -127,4 +127,7 @@ OpenCV를 사용하여 실시간으로 차선을 감지하는 방법과 기술�
 | **Steps per Epoch:** 300 <br>   **Number of Epochs:** 10  <br>  **Validation Steps:** 200 <br>   **Verbose:** 1  <br>  **Shuffle:** True  | <img src="https://github.com/user-attachments/assets/4444dfbc-5b98-4aa6-b65a-1b2019681338"> |
 
 ### 2.5 Applying a trained deep learning model to a Flask application
+- Flask와 Socket.IO를 사용하여 실시간으로 자동차의 조향각과 스로틀을 제어하는 서버를 구현
+- 클라이언트로부터 받은 이미지와 속도 데이터를 기반으로 딥러닝 모델을 통해 조향각을 예측하고, 속도에 따라 스로틀을 조절
+
 
