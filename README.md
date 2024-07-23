@@ -104,13 +104,13 @@ OpenCV를 사용하여 실시간으로 차선을 감지하는 방법과 기술�
 
 | **Features**                   | **Explaination** | **Image** |
 |------------------------------|----------|---------------|
-| **`Zoom`**                     | 이미지의 스케일을 조절하여 확대 또는 축소 | <img src="https://github.com/user-attachments/assets/d51ab763-2464-49da-abe6-91a5cfe7d472" width = "1200" height = "200">
-| **`Pan`**                      | 이미지를 수평 및 수직으로 이동 | <img src="https://github.com/user-attachments/assets/e7f8f724-713e-439a-816a-27601d566572" width = "1200" height = "200">
-| **`Brightness`**               | 이미지의 밝기를 랜덤하게 조정 | <img src="https://github.com/user-attachments/assets/cf549086-cbe2-4ca9-a120-ac4682196445" width = "1200" height = "200">
-| **`Flip`**                     | 이미지를 좌우로 뒤집기 | <img src="https://github.com/user-attachments/assets/b46fe651-37a3-42a9-9fcd-8b63694f3fa2" width = "1200" height = "200">
-| **`Augmentation`**     | 이미지와 조향 각도에 대해 확대/축소, 이동, 밝기 조절, 좌우 반전 | <img src="https://github.com/user-attachments/assets/996228f9-53aa-40c9-ad6a-eb565b88a5d2" width = "1200" height = "200" >
-| **`Preprocess`**     | 영역 자르기/YUV 색상/가우시안 블러/픽셀 조정/정규화 | <img src="https://github.com/user-attachments/assets/400dbd43-fb89-4cca-a3b8-99829a79d8bf" width = "1200" height = "200" >
-| **`Batch_generator`**    | 배치 단위로 이미지와 조향 각도를 생성 | <img src="https://github.com/user-attachments/assets/546bde63-e6e7-4d73-bf1d-177e326d5455" width = "1200" height = "200" >
+| **`Zoom`**                     | 이미지의 스케일을 조절하여 확대 또는 축소 | <img src="https://github.com/user-attachments/assets/d51ab763-2464-49da-abe6-91a5cfe7d472" width = "1500" height = "200">
+| **`Pan`**                      | 이미지를 수평 및 수직으로 이동 | <img src="https://github.com/user-attachments/assets/e7f8f724-713e-439a-816a-27601d566572" width = "1500" height = "200">
+| **`Brightness`**               | 이미지의 밝기를 랜덤하게 조정 | <img src="https://github.com/user-attachments/assets/cf549086-cbe2-4ca9-a120-ac4682196445" width = "1500" height = "200">
+| **`Flip`**                     | 이미지를 좌우로 뒤집기 | <img src="https://github.com/user-attachments/assets/b46fe651-37a3-42a9-9fcd-8b63694f3fa2" width = "1500" height = "200">
+| **`Augmentation`**     | 이미지와 조향 각도에 대해 확대/축소, 이동, 밝기 조절, 좌우 반전 | <img src="https://github.com/user-attachments/assets/996228f9-53aa-40c9-ad6a-eb565b88a5d2" width = "1500" height = "200" >
+| **`Preprocess`**     | 영역 자르기/YUV 색상/가우시안 블러/픽셀 조정/정규화 | <img src="https://github.com/user-attachments/assets/400dbd43-fb89-4cca-a3b8-99829a79d8bf" width = "1500" height = "200" >
+| **`Batch_generator`**    | 배치 단위로 이미지와 조향 각도를 생성 | <img src="https://github.com/user-attachments/assets/546bde63-e6e7-4d73-bf1d-177e326d5455" width = "1500" height = "200" >
 
 ### 2.4 Model Training
 
