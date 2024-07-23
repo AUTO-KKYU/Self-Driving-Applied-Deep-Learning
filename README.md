@@ -10,8 +10,9 @@ Udemy Course Certification : [DL based Self Driving .pdf](https://github.com/use
 * [1. 🛣 Lane Detection](#1-lane-detection)
     * [1.1 Basic OpenCV img Transform](#11-basic-opencv-img-transform)
     * [1.2 Real-Time Lane Detection and Road Visualization](#12-real-time-lane-detection-and-road-visualization)
-* [2. 🚥 German Traffic Signs](#2-german-traffic-signs)
-* [3. 🚗 Behavioral Cloning](#3-behavioral-cloning)
+* [2. 🚗 Behavioral Cloning](#2-behavioral-cloning)
+    * [2.1 Collecting Data](#21-collecting-data)
+* [3. 📸 Autonomous Simulation](#3-autonomous-simulation)
 
 ## 1. 🛣Lane Detection
 **차선 감지**는 자율 주행 시스템에서 매우 중요한 구성 요소로, 차량이 차선 경계를 유지하며 도로를 안전하게 주행할 수 있도록 돕습니다.
@@ -71,10 +72,24 @@ OpenCV를 사용하여 실시간으로 차선을 감지하는 방법과 기술�
 |**Lane Detection**|**Road Filling**|
 |The process of detecting lane boundaries |The lane detection process combined with the road filling |
 
+## 2. 🚗Behavioral Cloning
 
+**- Udacity SELF-DRIVING CAR ENGINEER PROGRAM**
+[self-driving-car-sim](https://github.com/udacity/self-driving-car-sim)
 
+*Usage : how to train cars how to navigate road courses using deep learning*
 
+### 2.1 Collecting Data
+<img src="https://github.com/user-attachments/assets/7e70e771-70f4-4481-857d-006794e2ca3a">
+<img src="https://github.com/user-attachments/assets/3d0fe140-1ec0-42b3-adac-63456d3b578c">
+<img src="https://github.com/user-attachments/assets/0269d30e-93f4-4064-aec8-3328dbe62e7f">
 
+### 2.2 Balancing Data
 
-## 2. 🚥German Traffic Signs
-## 3. 🚗Behavioral Cloning
+### 2.4 Data & Image Preprocessing
+
+### 2.5 Model Training
+
+### 2.6 Applying a trained deep learning model to a Flask application
+
+## 3. 📸 Autonomous Simulation
